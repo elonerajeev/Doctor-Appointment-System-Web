@@ -43,4 +43,4 @@ The Doctor-Appointment-System is released under the MIT License.
 
 ## Contact
 
-If you have any questions or comments, please contact us at [example@example.com](mailto:elonerajeev@example.com).
+If you have any questions or comments, please contact us at [elonerajeev@gmail.com](mailto:elonerajeev@gmail.com).
