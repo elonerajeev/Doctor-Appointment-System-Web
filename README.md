@@ -37,6 +37,9 @@ We welcome contributions from the community! If you'd like to contribute to the 
 3. Make your changes and commit them to your branch.
 4. Create a pull request.
 
+##Clone :
+git clone https://github.com/elonerajeev1/Doctor-Appointment-System-Web.git
+
 ## License
 
 The Doctor-Appointment-System is released under the MIT License.
